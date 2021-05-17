@@ -9,7 +9,7 @@ R 11.50 for the CDs and USB
 # Airtime: 
 R10.00 for browsering into the platforms below. 
 
-# SIM CARDS 
+# Sim-cards: 
 Vodacom
 MTN
 Telkom
