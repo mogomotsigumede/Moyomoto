@@ -1,5 +1,5 @@
 # Moyomoto
-Record label for generations and millennials because the 90s shouldn't perish. 
+Record label for generations and millennials.
 
 ![image](https://user-images.githubusercontent.com/75079699/118093996-7a372000-b3ce-11eb-8341-50b4b813f183.png)
 
